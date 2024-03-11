@@ -50,6 +50,19 @@
 		C0AC22612B9E66FC00F3B624 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0AC22602B9E66FC00F3B624 /* AnimalGridItemView.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		C0AC226F2B9E813500F3B624 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		C0683BA02B9B3BC900FFAFEC /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
 		C0683BA22B9B412F00FFAFEC /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
@@ -246,6 +259,7 @@
 				C09E7D3F2B99613B00B2C5A8 /* Sources */,
 				C09E7D402B99613B00B2C5A8 /* Frameworks */,
 				C09E7D412B99613B00B2C5A8 /* Resources */,
+				C0AC226F2B9E813500F3B624 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
